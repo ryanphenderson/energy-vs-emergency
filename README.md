@@ -6,6 +6,7 @@
 * [Technologies Used](#technologies-used)
 * [Sources](#sources)
 * [Conclusion](#conclusion)
+* [Dashboard](#dashboard)
 
 # Motivation
 I come from a power generation background in the Navy, and during my career I had the uncommon experience of being stuck on an island for the majority of the COVID-19 outbreak. Due to my isolated isolation, I had little to no clue how things were in the other parts of the world. During our Tableau project, I came across a Kaggle dataset that covered power generation per resource per country, and in every developed country I looked at, all resources dipped significantly in 2020, and took a while to get back to relative normal. The cause of this seemed obvious, but I wanted to compare other countries and see if I could determine which factors affected the power grids the most.
@@ -50,7 +51,7 @@ Here were a few obstacles I found as I was working through this project:
 
 -More densely populated countries such as China and India had the strictest COVID response.
 -Less dense populations had more relaxed restrictions, perhaps attributed to tighter-knit social circles.
--While workplace closures and restrictions on gatherings were mostly common throughout, less strict countries had fewer restrictions on -movement and public transport.
+-While workplace closures and restrictions on gatherings were mostly common throughout, less strict countries had fewer restrictions on movement and public transport.
 
 
 3) Determining if there is a possible correlation
@@ -58,3 +59,6 @@ Here were a few obstacles I found as I was working through this project:
 -Based off of the scatter plot, there does not appear to be a solid correlation between COVID response and the change in primary fuel consumption.
 -The COVID-19 Epidemic was an extremely disruptive event, leading to price fluctuations across a wide range of exports and imports.
 -Despite the apparent connection, even though affected citizens were stuck indoors or otherwise restricted, they were still consuming electricity and interior heating, and industry kept on moving.
+
+## Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiODk1ZmUwMGEtNjRhMC00YTc1LWEwYjItOTkwNTc5YzY1OWQxIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
