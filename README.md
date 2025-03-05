@@ -38,7 +38,7 @@ Here were a few obstacles I found as I was working through this project:
 
 
 ## Conclusion
-###Changes during the first year of COVID-19
+1) Changes during the first year of COVID-19
 
 -Of the 65 countries examined, 4 had a positive deviation from their anticipated change in primary fuel consumption.
 -Most heavily affected was the consumption of oil, with again all but 4 countries having a negative deviation.
@@ -46,14 +46,14 @@ Here were a few obstacles I found as I was working through this project:
 -Due to the nature of percentages, countries with less consumption were more prone to larger changes.
 
 
-###Response of the countries affected
+2) Response of the countries affected
 
 -More densely populated countries such as China and India had the strictest COVID response.
 -Less dense populations had more relaxed restrictions, perhaps attributed to tighter-knit social circles.
 -While workplace closures and restrictions on gatherings were mostly common throughout, less strict countries had fewer restrictions on -movement and public transport.
 
 
-###Determining if there is a possible correlation
+3) Determining if there is a possible correlation
 
 -Based off of the scatter plot, there does not appear to be a solid correlation between COVID response and the change in primary fuel consumption.
 -The COVID-19 Epidemic was an extremely disruptive event, leading to price fluctuations across a wide range of exports and imports.
